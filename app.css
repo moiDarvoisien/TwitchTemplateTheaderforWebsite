@@ -1,0 +1,52 @@
+/*
+  Set the Font-Family
+*/
+html{
+ font-family: Roboto;
+}
+/*
+  Player and Tchat 1
+*/
+.content1{
+  position: relative;
+  left: 3%;
+  height: 661px;
+}
+.player1{
+  position: relative;
+  left: 2%;
+  width: 62%;
+  height: 100%;
+}
+.tchat1{
+  position: relative;
+  left: 3%;
+  width: 20%;
+  height:100%;
+}
+/*
+    for the icon
+*/
+.icon1{
+position: relative;
+top: 1%;
+left: 88px;
+}
+.icon1 i{
+font-size: 32px;
+}
+/*
+    color for the background and the font
+*/
+.white{
+  background-color: #FFF;
+}
+.black{
+  background-color: #000;
+}
+.black-font{
+  color: #000;
+}
+.white-font{
+  color: #FFF;
+}
